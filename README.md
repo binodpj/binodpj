@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Java**
 - 👨‍💻 All of my projects are available at [https://github.com/binodpj](https://github.com/binodpj)
-- 📝 I regularly write articles on [https://medium.com/@binodtech991](https://medium.com/@binodtech991)
-- 💬 Ask me about **java**
 - 📫 How to reach me **joshibinodprasad08@gmail.com**
 
 ### 🛠 Tech Stack
